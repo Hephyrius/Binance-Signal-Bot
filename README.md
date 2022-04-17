@@ -6,9 +6,9 @@ A Binance Bot that Trades Macd Crossovers
 ### This bot is intended to be a Proof-of-concept. The developer will not be responsible for Any losses that are made are as a result of using this tool. Understand the risks involved and Only invest amounts you are willing to lose.
 
 
-## Suporting
+## Contributing
 
-If you appreciate my work send all crypto donations in Eth, Bnb, Matic, Avax etc on any chain to : 0xe0a09b49721FBD8B23c67a3a9fdE44be4412B8fD
+Feel free to contribute to the project and propose changes. I will review and accept the good PRs
 
 ## Structure
 
